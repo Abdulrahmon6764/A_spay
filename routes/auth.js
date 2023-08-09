@@ -17,5 +17,6 @@ router.post('/login',[
 
 ],authController.postLog)
 
+router.get("/",authController.Home)
 
  module.exports = router

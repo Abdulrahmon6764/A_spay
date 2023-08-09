@@ -1,0 +1,155 @@
+/* ///// setting page default */
+*{
+    padding: none;
+    margin: none;
+    box-sizing: border-box;
+}
+/* ///// end of setting page default */
+/* ///// */
+
+/* ///// body-class */
+/* .bdy{
+    background-color: red;
+} */
+/* /////  end of body-class*/
+
+/* //// */
+
+/* ////// */
+
+/* ////// dropdown */
+.nav-dropdownelments .drop-links{
+    display: none;
+    position: relative;
+}
+/* //// */
+
+/* /////// dropdown */
+.nav-dropdownelments:hover .drop-links{
+display: block;
+position: absolute;
+right: 0;
+left: 0;
+margin: 5px 0px 0px 0px;
+/* background-color: red; */
+
+}
+/* //// */
+
+/* //// */
+.drop-downtwo .dropdowntwo-content{
+    display: none;
+   position: relative;
+}
+/* //// */
+
+/* /// */
+.drop-downtwo:hover .dropdowntwo-content{
+display: block;
+ position: absolute;
+ right: 0;
+ left: 0;
+ margin: 5px 0px 0px 0px;
+width: 236px;
+}
+/* //// */
+
+/* // */
+.drp-downth .dropdownth-content{
+    display: none;
+    position: relative;
+}
+/* // */
+.drp-downth:hover .dropdownth-content{
+    display: block;
+    position: absolute;
+    right: 0;
+    left: 0px;
+    margin: 5px 0px 0px 0px;
+    width: 200px;
+}
+/* // */
+
+/* /// */
+.drp-downfourth .dropdownforth-content{
+    display: none;
+    position: relative;
+}
+/* // */
+
+/* // */
+.drp-downfourth:hover .dropdownforth-content{
+display: block;
+position: absolute;
+right: 0px;
+left: 0px;
+margin: 5px 0px 0px 15px;
+}
+
+/* /// */
+.drp-downfourth .titl-dropdown{
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+/* // */
+
+/* /// */
+.drp-downth .shop-link{
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    color: white;
+}
+/* // */
+
+/* // */
+.drop-downtwo .crypto-link{
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    color: white;
+}
+/* // */
+
+/* // */
+.nav-dropdownelments .home-link{
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    color:white;
+}
+
+/* // */
+.bgnav{
+    background-color: rgb(70, 145, 70);
+}
+
+/* // */
+.search-role .search-bitton{
+    color: white;
+    outline: none;
+    border:1px solid yellowgreen;
+    background-color: green;
+    /* padding-right: 20px;
+    padding-left: 20px; */
+    border-radius: 10px;
+    width: 100px;
+}
+/* // */
+
+/* // */
+.search-role .search-bitton:hover{
+    background-color: yellowgreen;
+    color: darkslategrey;
+    font-weight: bold;
+    width: 120px;
+    transition: width 1s;
+}
+/* // */
+
+/* // */
+.dev .image{
+    width: 50px;
+    border-radius: 50%;
+    border: 2px solid yellowgreen;
+}
+
+
